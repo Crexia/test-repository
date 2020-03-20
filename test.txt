@@ -1,2 +1,4 @@
 Hi!
 Updated Version
+
+And I'm adding this text to master.
